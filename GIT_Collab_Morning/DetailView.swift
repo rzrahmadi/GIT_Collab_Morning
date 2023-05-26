@@ -52,6 +52,8 @@ struct DetailView: View {
                 Button("L") {
                     isLoved = true
                 } */
+
+             //   NavigationBarButtonView(isLoved: $isLoved)
             }
         }
         
