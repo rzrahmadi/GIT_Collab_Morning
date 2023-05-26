@@ -7,6 +7,7 @@
 	objects = {
 
 /* Begin PBXBuildFile section */
+		521305A32A20667D00AE5B6A /* DetailView.swift in Sources */ = {isa = PBXBuildFile; fileRef = 521305A22A20667D00AE5B6A /* DetailView.swift */; };
 		EF20D3DD2A20621A00186925 /* GIT_Collab_MorningApp.swift in Sources */ = {isa = PBXBuildFile; fileRef = EF20D3DC2A20621A00186925 /* GIT_Collab_MorningApp.swift */; };
 		EF20D3DF2A20621A00186925 /* ContentView.swift in Sources */ = {isa = PBXBuildFile; fileRef = EF20D3DE2A20621A00186925 /* ContentView.swift */; };
 		EF20D3E12A20621A00186925 /* Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = EF20D3E02A20621A00186925 /* Assets.xcassets */; };
@@ -14,6 +15,7 @@
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
+		521305A22A20667D00AE5B6A /* DetailView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = DetailView.swift; sourceTree = "<group>"; };
 		EF20D3D92A20621A00186925 /* GIT_Collab_Morning.app */ = {isa = PBXFileReference; explicitFileType = wrapper.application; includeInIndex = 0; path = GIT_Collab_Morning.app; sourceTree = BUILT_PRODUCTS_DIR; };
 		EF20D3DC2A20621A00186925 /* GIT_Collab_MorningApp.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = GIT_Collab_MorningApp.swift; sourceTree = "<group>"; };
 		EF20D3DE2A20621A00186925 /* ContentView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ContentView.swift; sourceTree = "<group>"; };
@@ -53,6 +55,7 @@
 			children = (
 				EF20D3DC2A20621A00186925 /* GIT_Collab_MorningApp.swift */,
 				EF20D3DE2A20621A00186925 /* ContentView.swift */,
+				521305A22A20667D00AE5B6A /* DetailView.swift */,
 				EF20D3E02A20621A00186925 /* Assets.xcassets */,
 				EF20D3E22A20621A00186925 /* Preview Content */,
 			);
@@ -138,6 +141,7 @@
 			buildActionMask = 2147483647;
 			files = (
 				EF20D3DF2A20621A00186925 /* ContentView.swift in Sources */,
+				521305A32A20667D00AE5B6A /* DetailView.swift in Sources */,
 				EF20D3DD2A20621A00186925 /* GIT_Collab_MorningApp.swift in Sources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
